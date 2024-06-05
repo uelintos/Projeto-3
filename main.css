@@ -1,0 +1,59 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+    font-style: normal;
+  }
+
+
+.navbar{
+    background-color: rgb(211, 217, 223);
+}
+
+.nav .nav-link.active{
+    background-color: aqua;
+    color: black;
+}
+
+.nav .nav-link, 
+.navbat-brand
+.navbar-brand:hover{
+    color: black;
+}
+
+.navbar-toggler, #faleConosco button{
+    background-color: rgb(133, 253, 253);
+}
+
+#carouselImg{
+    width: 100%;
+    height: 30vmax;
+}
+.socialLinks li{
+    list-style: none;
+    display: inline;
+}
+
+.socialLinks a{
+    text-decoration: none;
+}
+#btnCart{
+    background-color: aqua;
+}
+#reversedImg{
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#parcerias{
+    background-color: aliceblue;
+}
+#faleConosco{
+    background-color: rgb(211, 217, 223); ;
+}
+
+textarea{
+    resize: none;
+}
